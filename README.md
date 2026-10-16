@@ -25,8 +25,6 @@ Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento d
 | RF04 | Armazenar atributos gerais dos animais (nome, idade, peso, sexo) | ✅ Implementado |
 | RF05 | Atributos específicos de cada espécie (ave, mamífero, réptil) | ✅ Implementado |
 | RF06 | Consultar animais cadastrados por espécie | ✅ Implementado |
-| — | Atualização e exclusão de animais | ✅ Implementado |
-| — | Registro e histórico de alimentação | ✅ Implementado |
 
 ## Pendências para o projeto final
 
@@ -34,10 +32,15 @@ Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento d
 - Testes adicionais (persistência, serviços) e validações.
 - Documentação final de instalação e execução.
 - Vídeos de instalação, apresentação e individuais.
+- Implementações de telas para login de acesso
 
 ## Tecnologias
 
 Java JDK 21 · Java Swing · MySQL 8 · JDBC · Apache Maven / Maven Wrapper · JUnit 5 · arquitetura em camadas (MVC).
+
+
+LINK- GUIA PARA INSTALAÇÃO E EXECUÇÃO DO SISTEMA: 
+
 
 ## Preparar o banco
 
