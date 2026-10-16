@@ -41,7 +41,7 @@ Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento d
 Java JDK 21 · Java Swing · MySQL 8 · JDBC · Apache Maven / Maven Wrapper · JUnit 5 · arquitetura em camadas (MVC).
 
 
-LINK- GUIA PARA INSTALAÇÃO E EXECUÇÃO DO SISTEMA: 
+## LINK- GUIA PARA INSTALAÇÃO E EXECUÇÃO DO SISTEMA: 
 
 
 ## Preparar o banco
