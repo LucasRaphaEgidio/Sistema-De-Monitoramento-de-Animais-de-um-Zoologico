@@ -1,5 +1,7 @@
 # Sistema de Monitoramento de Animais em um Zoológico 🐾
 
+O objetivo do nosso sistema é facilitar o gerenciamento e o monitoramento dos animais de um zoológico, centralizando as informações em um único lugar. Por meio dele, é possível cadastrar animais e espécies, consultar e atualizar seus dados, além de registrar e acompanhar o histórico de alimentação. O sistema busca tornar esse controle mais organizado, prático e eficiente, utilizando uma interface gráfica para facilitar a utilização pelos responsáveis pelo zoológico.
+
 Projeto da disciplina **Certificadora de Competência 3** — UTFPR, Campus Cornélio Procópio.
 
 Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento de animais, espécies e histórico de alimentação de um zoológico.
