@@ -4,7 +4,7 @@ Projeto da disciplina **Certificadora de Competência 3** — UTFPR, Campus Corn
 
 Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento de animais, espécies e histórico de alimentação de um zoológico.
 
-> **Estado atual: MVP / entrega parcial (17/10).** A base foi reaproveitada do projeto de POO2 e já cobre o fluxo principal de ponta a ponta. O restante do cronograma (integração, testes, documentação final e vídeos) segue até 28/11/2026.
+> **Estado atual: MVP / entrega parcial (17/10).
 
 ## Integrantes
 
