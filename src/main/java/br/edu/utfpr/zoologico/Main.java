@@ -16,7 +16,9 @@ public class Main {
                 new TelaPrincipal().setVisible(true);
             } catch (PersistenciaException exception) {
                 JOptionPane.showMessageDialog(null,
-                        exception.getMessage() + "\n\nDefina a variavel ZOO_DB_PASSWORD no terminal antes de executar.",
+                        exception.getMessage() + "\n\nConfira se o MySQL esta em execucao, se o banco foi criado"
+                                + " (database/schema.sql) e se ZOO_DB_PASSWORD (e, se necessario, ZOO_DB_USER)"
+                                + " foi definida no terminal.",
                         "Falha na conexao com o banco", JOptionPane.ERROR_MESSAGE);
             } catch (Exception exception) {
                 JOptionPane.showMessageDialog(null, exception.getMessage(), "Erro", JOptionPane.ERROR_MESSAGE);
