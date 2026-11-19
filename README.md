@@ -2,11 +2,9 @@
 
 Projeto da disciplina **Certificadora de Competência 3** — UTFPR, Campus Cornélio Procópio.
 
-𝓞 𝓸𝓫𝓳𝓮𝓽𝓲𝓿𝓸 𝓭𝓸 𝓷𝓸𝓼𝓼𝓸 𝓼𝓲𝓼𝓽𝓮𝓶𝓪 𝓮́ 𝓯𝓪𝓬𝓲𝓵𝓲𝓽𝓪𝓻 𝓸 𝓰𝓮𝓻𝓮𝓷𝓬𝓲𝓪𝓶𝓮𝓷𝓽𝓸 𝓮 𝓸 𝓶𝓸𝓷𝓲𝓽𝓸𝓻𝓪𝓶𝓮𝓷𝓽𝓸 𝓭𝓸𝓼 𝓪𝓷𝓲𝓶𝓪𝓲𝓼 𝓭𝓮 𝓾𝓶 𝔃𝓸𝓸𝓵𝓸́𝓰𝓲𝓬𝓸, 𝓬𝓮𝓷𝓽𝓻𝓪𝓵𝓲𝔃𝓪𝓷𝓭𝓸 𝓪𝓼 𝓲𝓷𝓯𝓸𝓻𝓶𝓪𝓬̧𝓸̃𝓮𝓼 𝓮𝓶 𝓾𝓶 𝓾́𝓷𝓲𝓬𝓸 𝓵𝓾𝓰𝓪𝓻. 𝓟𝓸𝓻 𝓶𝓮𝓲𝓸 𝓭𝓮𝓵𝓮, 𝓮́ 𝓹𝓸𝓼𝓼𝓲́𝓿𝓮𝓵 𝓬𝓪𝓭𝓪𝓼𝓽𝓻𝓪𝓻 𝓪𝓷𝓲𝓶𝓪𝓲𝓼 𝓮 𝓮𝓼𝓹𝓮́𝓬𝓲𝓮𝓼, 𝓬𝓸𝓷𝓼𝓾𝓵𝓽𝓪𝓻 𝓮 𝓪𝓽𝓾𝓪𝓵𝓲𝔃𝓪𝓻 𝓼𝓮𝓾𝓼 𝓭𝓪𝓭𝓸𝓼, 𝓪𝓵𝓮́𝓶 𝓭𝓮 𝓻𝓮𝓰𝓲𝓼𝓽𝓻𝓪𝓻 𝓮 𝓪𝓬𝓸𝓶𝓹𝓪𝓷𝓱𝓪𝓻 𝓸 𝓱𝓲𝓼𝓽𝓸́𝓻𝓲𝓬𝓸 𝓭𝓮 𝓪𝓵𝓲𝓶𝓮𝓷𝓽𝓪𝓬̧𝓪̃𝓸. 𝓞 𝓼𝓲𝓼𝓽𝓮𝓶𝓪 𝓫𝓾𝓼𝓬𝓪 𝓽𝓸𝓻𝓷𝓪𝓻 𝓮𝓼𝓼𝓮 𝓬𝓸𝓷𝓽𝓻𝓸𝓵𝓮 𝓶𝓪𝓲𝓼 𝓸𝓻𝓰𝓪𝓷𝓲𝔃𝓪𝓭𝓸, 𝓹𝓻𝓪́𝓽𝓲𝓬𝓸 𝓮 𝓮𝓯𝓲𝓬𝓲𝓮𝓷𝓽𝓮, 𝓾𝓽𝓲𝓵𝓲𝔃𝓪𝓷𝓭𝓸 𝓾𝓶𝓪 𝓲𝓷𝓽𝓮𝓻𝓯𝓪𝓬𝓮 𝓰𝓻𝓪́𝓯𝓲𝓬𝓪 𝓹𝓪𝓻𝓪 𝓯𝓪𝓬𝓲𝓵𝓲𝓽𝓪𝓻 𝓪 𝓾𝓽𝓲𝓵𝓲𝔃𝓪𝓬̧𝓪̃𝓸 𝓹𝓮𝓵𝓸𝓼 𝓻𝓮𝓼𝓹𝓸𝓷𝓼𝓪́𝓿𝓮𝓲𝓼 𝓹𝓮𝓵𝓸 𝔃𝓸𝓸𝓵𝓸́𝓰𝓲𝓬𝓸.
+O objetivo do sistema é facilitar o gerenciamento e o monitoramento dos animais de um zoológico, centralizando as informações em um único lugar. Por meio dele é possível cadastrar animais e espécies, consultar e atualizar seus dados, além de registrar e acompanhar o histórico de alimentação.
 
-Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento de animais, espécies e histórico de alimentação de um zoológico.
-
-> **Estado atual: MVP / entrega parcial (17/10).
+Aplicação desktop em Java (Swing + MySQL/JDBC).
 
 ## Integrantes
 
@@ -17,7 +15,7 @@ Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento d
 | Lucas Raphael Egídio da Silva | Módulo de espécies e alimentação |
 | Luhan Christyan Rodrigues Batista | Interface gráfica |
 
-## Requisitos funcionais — situação no MVP
+## Requisitos funcionais
 
 | ID | Descrição | Situação |
 |---|---|---|
@@ -27,38 +25,60 @@ Aplicação desktop em Java (Swing + MySQL/JDBC) para cadastro e gerenciamento d
 | RF04 | Armazenar atributos gerais dos animais (nome, idade, peso, sexo) | ✅ Implementado |
 | RF05 | Atributos específicos de cada espécie (ave, mamífero, réptil) | ✅ Implementado |
 | RF06 | Consultar animais cadastrados por espécie | ✅ Implementado |
+| — | Atualização e exclusão de animais | ✅ Implementado |
+| — | Registro e histórico de alimentação | ✅ Implementado |
 
-## Pendências para o projeto final
+Conforme o Projeto Inicial, esta versão **não inclui autenticação nem perfis de acesso**: o foco é o gerenciamento das informações.
 
-- Integração e revisão dos módulos pela equipe.
-- Testes adicionais (persistência, serviços) e validações.
-- Documentação final de instalação e execução.
-- Vídeos de instalação, apresentação e individuais.
-- Implementações de telas para login de acesso
+## Regras de negócio principais
+
+- **Animal:** nome obrigatório; idade não negativa; peso maior que zero; sexo, espécie e característica específica obrigatórios.
+- **Espécie:** nome e classe (ave, mamífero ou réptil) obrigatórios; o nome é único.
+- **Alimentação:** animal, alimento e quantidade (maior que zero) obrigatórios; data e hora registradas automaticamente.
+- **Exclusão de animal:** remove também o histórico de alimentação dele, em uma transação (com rollback em caso de falha).
 
 ## Tecnologias
 
 Java JDK 21 · Java Swing · MySQL 8 · JDBC · Apache Maven / Maven Wrapper · JUnit 5 · arquitetura em camadas (MVC).
 
+## Instalação e execução
 
-## LINK- GUIA PARA INSTALAÇÃO E EXECUÇÃO DO SISTEMA: 
+### 1. Pré-requisitos
 
+- **JDK 21** instalado (`java -version`).
+- **MySQL Server 8** em execução e o **MySQL Workbench** (ou outro cliente SQL).
+- Maven **não** precisa ser instalado: o projeto usa o Maven Wrapper (`mvnw`).
 
-## Preparar o banco
+### 2. Obter o código
 
-No MySQL Workbench, execute `database/schema.sql` (cria o banco `zoologico_certificadora` e as tabelas). Opcionalmente, execute `database/dados-exemplo.sql` para carregar dados de demonstração.
+```powershell
+git clone https://github.com/LucasRaphaEgidio/Sistema-De-Monitoramento-de-Animais-de-um-Zoologico
+cd Sistema-De-Monitoramento-de-Animais-de-um-Zoologico
+```
 
-Defina a senha do usuário `root` no terminal (nunca no código):
+### 3. Preparar o banco
+
+No MySQL Workbench, abra e execute `database/schema.sql`. Ele cria o banco `zoologico_certificadora` e as tabelas `especies`, `animais` e `alimentacoes`. É **obrigatório**: a aplicação cria as tabelas se faltarem, mas não cria o banco.
+
+Opcionalmente, execute `database/dados-exemplo.sql` para carregar espécies, animais e alimentações de demonstração.
+
+### 4. Configurar o acesso ao banco
+
+A senha nunca fica no código: ela é lida da variável de ambiente `ZOO_DB_PASSWORD`. Defina-a no terminal em que for executar o sistema:
 
 ```powershell
 $env:ZOO_DB_PASSWORD = 'SUA_SENHA_DO_MYSQL'
 ```
 
-Para usar outro usuário que não o `root`, defina também `$env:ZOO_DB_USER = 'NOME_DO_USUARIO'`.
+Por padrão o usuário é `root`. Para usar outro usuário, defina também:
 
-Porta ou nome do banco diferentes podem ser ajustados em `src/main/resources/database.properties`.
+```powershell
+$env:ZOO_DB_USER = 'NOME_DO_USUARIO'
+```
 
-## Executar
+Porta, host ou nome do banco diferentes podem ser ajustados em `src/main/resources/database.properties`.
+
+### 5. Executar os testes e o sistema
 
 ```powershell
 .\mvnw.cmd test
@@ -66,6 +86,18 @@ Porta ou nome do banco diferentes podem ser ajustados em `src/main/resources/dat
 ```
 
 Sem o wrapper: `mvn test` e `mvn compile exec:java`.
+
+### Problemas comuns
+
+| Mensagem | Causa e solução |
+|---|---|
+| "A senha do MySQL nao foi configurada" | `ZOO_DB_PASSWORD` não foi definida **nesse** terminal. |
+| "Nao foi possivel conectar ao MySQL" | Serviço do MySQL parado, porta/usuário diferentes de `3306`/`root`, ou senha incorreta. |
+| Erro de banco desconhecido | `database/schema.sql` ainda não foi executado. |
+
+## Testes automatizados
+
+`.\mvnw.cmd test` executa 21 testes JUnit que cobrem a hierarquia de animais e a fábrica (`AnimalFactory`), a igualdade de espécies e as regras de negócio de animais, espécies e alimentação. Os testes de regras não dependem do banco de dados.
 
 ## Organização do código
 
@@ -76,3 +108,8 @@ Sem o wrapper: `mvn test` e `mvn compile exec:java`.
 - `view` — telas Swing.
 - `infra` — conexão e criação da estrutura do banco.
 - `exception` — exceções da aplicação.
+- `database` — script de criação do banco e dados de exemplo.
+
+## Vídeos
+
+Os vídeos da entrega estão listados no arquivo [`Videos`](Videos).
